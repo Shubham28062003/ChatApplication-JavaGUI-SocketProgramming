@@ -7,11 +7,11 @@ In this blog post, we will delve into the basics of socket programming using a s
 
 For a more detailed understanding of the concepts covered in this project, check out my blog post:
 
-[**Understanding Socket Programming in Java: A Practical Chat Application Example**
+[**Understanding Socket Programming in Java: A Practical Chat Application Example**](https://chandrasamrat.hashnode.dev/understanding-socket-programming-in-java)
 
 Additionally, you can watch a step-by-step tutorial on our YouTube channel:
 
-[**YouTube Tutorial - Developing a Chat Application GUI in Java**]
+[[**YouTube Tutorial - Developing a Chat Application GUI in Java**]](https://www.youtube.com/watch?v=st7qtH8ysCo&t=1958s)
 
 Feel free to explore these resources for in-depth insights and further guidance.
 
